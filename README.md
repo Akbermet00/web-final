@@ -4,7 +4,7 @@
 The application is available at: `http://localhost:3000` (locally)
 
 ## 📦 Features
-- Cosmetic catalog with dynamic loading
+- Clothes catalog with dynamic loading
 - Add/remove products to/from cart
 - Change product quantities
 - Cart persistence in **localStorage**
